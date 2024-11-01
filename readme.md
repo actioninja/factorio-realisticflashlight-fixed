@@ -1,4 +1,11 @@
 # Description
+
+Lazily updated version of invisus's [RealisticFlashlight]
+
+The mod's files work fine on 2.0, it just needed the version field updated to 2.0. I will gladly take this page down if the original is updated.
+
+## Original Description
+
 Replaces the default flashlight and vehicle "light cones" with better, more realistic versions.
 
 ## Recommendations
@@ -16,6 +23,7 @@ Borrowed* from [EnhancedFlashlight] and [LightCone]
 
 \*shamelessly stolen
 
+[RealisticFlashlight]: https://mods.factorio.com/mod/RealisticFlashlight
 [EnhancedFlashlight]: https://mods.factorio.com/mod/EnhancedFlashlight
 [LightCone]: https://mods.factorio.com/mod/LightCone
 [Clockwork]: https://mods.factorio.com/mod/Clockwork
