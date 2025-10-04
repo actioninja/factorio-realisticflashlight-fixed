@@ -86,7 +86,7 @@ end
 
 -- Spidertron
 for _, spider in pairs(data.raw["spider-vehicle"]) do
-  if spider then
+  if spider and spider.graphics_set then
     if enable_vehicle_light_halo then
       spider.graphics_set.light = {vehicle_halo, vehicle_headlights}
     else
