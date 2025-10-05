@@ -1,6 +1,6 @@
 {
   "name": "realistic-flashlight-fixed",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "title": "Realistic Flashlight Fixed",
   "author": "actioninja, invisus",
   "description": "More realistic flashlight patterns and some new configuration options",
@@ -12,6 +12,7 @@
   ],
   "factorio_version": "2.0"
 }
+
 
 
 
