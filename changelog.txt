@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.7
+Date: 2025.10.4
+  Bugfixes:
+    - Cleaned up and corrected dead optionals and fixed AAI compatibility
+---------------------------------------------------------------------------------------------------
 Version: 0.2.6
 Date: 2025.10.4
   Bugfixes:
@@ -47,4 +52,5 @@ Date: 2020.1.14
   Changes:
 
     - Now updated and functional for 0.17 (thanks invisus)
+
 
