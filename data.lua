@@ -1,3 +1,3 @@
-if not mods["GirlCharacter"] then
+if not (mods["GirlCharacter"] or mods["aai-industry"]) then
   require("script.realistic-flashlight")
 end

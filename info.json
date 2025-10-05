@@ -7,7 +7,8 @@
   "dependencies": [
     "base",
     "? GirlCharacter",
-    "? Companion_Drones"
+    "? Companion_Drones",
+    "? aai-industry"
   ],
   "factorio_version": "2.0"
 }

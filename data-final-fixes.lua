@@ -1,3 +1,4 @@
-if mods["GirlCharacter"] then
+if (mods["GirlCharacter"] or mods["aai-industry"]) then
   require("script.realistic-flashlight")
 end
+
