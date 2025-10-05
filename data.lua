@@ -1,3 +1,4 @@
-if not (mods["GirlCharacter"] or mods["aai-industry"]) then
+if not (mods["skins-factored"] or mods["aai-industry"]) then
   require("script.realistic-flashlight")
 end
+
